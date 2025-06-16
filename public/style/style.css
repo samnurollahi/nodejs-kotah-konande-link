@@ -1,0 +1,145 @@
+/* font */
+@font-face {
+  font-family: vazir;
+  src: url(../font/Vazir-Light.ttf);
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: vazir;
+}
+
+/* .contener {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100vw;
+  height: 98vh;
+  cursor: pointer;
+}
+.contener .box {
+  display: block;
+  border-radius: 10px;
+  padding: 15px;
+  box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px,
+    rgba(60, 64, 67, 0.15) 0px 1px 3px 1px;
+  width: 450px;
+}
+.contener .box h1 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  direction: ltr;
+  text-align: center;
+}
+.contener .box h1 span {
+  font-size: 30px !important;
+  margin-left: 10px;
+  color: #333;
+}
+.contener .box .box-input {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    direction: ltr;
+    margin: auto;
+    margin-top: 20px;
+    width: 80%;
+    border-radius: 5px;
+    overflow: hidden;
+    border: 1px solid #333;
+    transition: .5s;
+    height: 50px;
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 0px 5px 0px, rgba(0, 0, 0, 0.1) 0px 0px 1px 0px;
+}
+.contener .box .box-input input {
+    border: none;
+    outline: none;
+    width: 90%;
+    border-radius: 5px;
+    font-size: 20px;
+}
+.contener .box .box-input input::selection {
+    background-color: rgba(16, 16, 255, 0.699);
+    color: #fff;
+}
+.contener .box .box-input span {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 10%;
+    border-left: 3px dotted #ccc;
+    text-align: center;
+    background-color: #f2f2f2;
+    color: #333;
+    border-radius: 5px 0 0 5px;
+    height: 100%;
+}
+.contener .box button {
+    display: block;
+    margin: auto;
+    margin-top: 15px;
+    text-align: center;
+    padding: 10px 20px;
+    border-radius: 7px;
+    background-color: #333;
+    color: #fff;
+    transition: .5s;
+    cursor: pointer;
+}
+.contener .box button:hover {
+    color: #333;
+    background-color: #fff;
+}
+
+
+.link {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  direction: ltr;
+  margin: auto;
+  margin-top: 20px;
+  width: 80%;
+  border-radius: 5px;
+  overflow: hidden;
+  border: 1px solid #333;
+  transition: .5s;
+  height: 50px;
+  box-shadow: rgba(0, 0, 0, 0.1) 0px 0px 5px 0px, rgba(0, 0, 0, 0.1) 0px 0px 1px 0px;
+}
+.link p {
+  text-align: center;
+  width: 90%;
+}
+.link span {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 10%;
+  border-left: 3px dotted #ccc;
+  text-align: center;
+  background-color: #f2f2f2;
+  color: #333;
+  border-radius: 5px 0 0 5px;
+  height: 100%;
+  cursor: pointer;
+}
+
+
+.alert {
+  display: none;
+  width: 80%;
+  background-color: green;
+  border-radius: 10px;
+  text-align: center;
+  padding: 3px;
+  color: #fff;
+  margin: auto;
+  cursor: pointer;
+}
+.alert::selection {
+  color: #fff;
+} */
